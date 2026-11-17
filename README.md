@@ -144,23 +144,5 @@ I’ve made a **demo video** showing:
 🔗 [LinkedIn](https://www.linkedin.com/in/samiksha-sain/)
 ---
 
-## 🧑‍💻 Author
 
-👋 Hi, I’m **Samiksha Sain**
-
-* Aspiring **Data Analyst / Python Developer**
-* Building real-world projects to combine **programming + analytics**
-* [Connect on LinkedIn](https://www.linkedin.com/in/samiksha-sain/)
-
----
-
-⚡ If you like this project, consider giving it a ⭐ on GitHub!
-
----
-
-👉 That’s the **README.md** template. Once you paste it locally, GitHub will render it beautifully (with headings, emojis, code blocks, etc.).
-
----
-
-Do you also want me to create a **short `requirements.txt` file** so people can install dependencies in one go?
 
